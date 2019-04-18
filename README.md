@@ -1,0 +1,1 @@
+# scordite-wordpress-plugin
